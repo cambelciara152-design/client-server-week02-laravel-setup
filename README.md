@@ -1,4 +1,6 @@
-#  1. Mini Project 01: Professional Laravel Development Environment Setup
+#  ITST 302 - Client-Server Technologies 
+
+# 1. Mini Project 01: Professional Laravel Development Environment Setup / 
 
 #  2. Introduction
 - Laravel is a PHP framework designed to help developers build web applications in a structured and efficient way. It follows the Model-View-Controller (MVC) design pattern, which separates different parts of an application to make the code easier to understand, maintain, and expand. Laravel also includes built-in tools for routing, database operations, authentication, and security, allowing developers to focus more on application development.
