@@ -101,32 +101,32 @@
     <div class="content">
 
         <div class="info">
-            <span class="label">👩 Student Name</span>
+            <span class="label"> Student Name</span>
             <span class="value">Ciara Jane P. Cambel</span>
         </div>
 
         <div class="info">
-            <span class="label">🎓 Student Number</span>
+            <span class="label"> Student Number</span>
             <span class="value">0124-1349</span>
         </div>
 
         <div class="info">
-            <span class="label">📚 Course</span>
+            <span class="label"> Course</span>
             <span class="value">BS Information Technology</span>
         </div>
 
         <div class="info">
-            <span class="label">🏫 Section</span>
+            <span class="label"> Section</span>
             <span class="value">BSIT-3D</span>
         </div>
 
         <div class="info">
-            <span class="label">💻 Subject</span>
+            <span class="label"> Subject</span>
             <span class="value">Client-Server Technologies</span>
         </div>
 
         <div class="info">
-            <span class="label">📅 Current Date</span>
+            <span class="label"> Current Date</span>
             <span class="value">{{ date('F d, Y') }}</span>
         </div>
 
